@@ -6,6 +6,11 @@ The project combines data preprocessing, feature engineering, machine learning, 
 
 ---
 
+🚀 **Live Demo:** [EMIPredict AI](https://emi-predict-ai-wgvbjc86cy7pbkqljrn7ja.streamlit.app/)
+
+📂 **GitHub Repository:** [EMIPredict AI](https://github.com/swagatipachare/EMI-Predict-AI)
+
+
 ## 🚀 Project Overview
 
 The system provides two major predictions:
